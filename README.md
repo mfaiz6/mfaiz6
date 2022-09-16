@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [mfaiz.social](mfaiz.social)
+- 👨‍💻 All of my projects are available at [http://mfaiz.social](http://mfaiz.social)
 
 - 💬 Ask me about **JavaScript, NodeJS**
 
