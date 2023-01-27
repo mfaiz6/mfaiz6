@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mohammad Faiz Ahanger</h1>
-<h3 align="center">A passionate full-stack developer in the making!</h3>
+<h1 align="center">Hi 👋, I'm Mohammad Faiz</h1>
+<h3 align="center">A passionate full-stack developer</h3>
 <h3 align="center">JavaScript is everywhere!</h3>
 
 # 💫 About Me:
